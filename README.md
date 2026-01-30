@@ -11,8 +11,8 @@ Repositório dedicado ao armazenamento de códigos e exercícios práticos da **
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagem:** Java (JDK 17+)
-* **IDE:** IntelliJ IDEA / VS Code
+* **Linguagem:** Java (JDK 21+)
+* **IDE:** IntelliJ IDEA
 * **Versionamento:** Git & GitHub
 
 ---
