@@ -34,7 +34,7 @@ public class Aula04Operadores {
         double salario = 1600;
         int idade = 24;
 
-        boolean saida = idade == 24 && salario < 2000;
+        boolean saida = (idade == 24 && salario < 2000);
         System.out.println("Não pode entrar = " + saida);
 
         //OR

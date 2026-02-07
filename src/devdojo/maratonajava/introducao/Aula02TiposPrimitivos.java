@@ -17,7 +17,7 @@ public class Aula02TiposPrimitivos {
         boolean verdadeiro = true;
 
         //casting = forçando long ser inteiro
-        int dados = (int) 10000000000L;
+        long dados = (int) 10000000000L;
 
         System.out.println(ascii);
         System.out.println(unicode);
